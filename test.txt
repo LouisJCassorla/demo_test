@@ -1,0 +1,2 @@
+Here's a text file created by using the notepad command in bash.
+The command given was: notepad test.txt
